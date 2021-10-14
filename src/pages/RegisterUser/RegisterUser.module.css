@@ -1,0 +1,34 @@
+.form_container
+{
+    min-height: 100vh;
+}
+.left_wrap
+{
+    background:#58CCED;
+    min-height: 100vh;
+    display: flex;
+    color: white;
+    align-items: center;
+}
+.form_wrap form
+{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form_wrap form *
+{
+    min-width: 300px;
+    /* min-width: 600px; */
+    min-height: 35px;
+}
+.form_wrap form button
+{
+
+}
+.content_wrap
+{
+    text-align: center;
+}

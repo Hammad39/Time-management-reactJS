@@ -1,0 +1,13 @@
+.list_header
+{
+    display:flex;
+    margin: 5px 0;
+}
+.list_header a
+{
+    position: absolute;
+}
+.list_header h1
+{
+    flex-grow: 1;
+}
