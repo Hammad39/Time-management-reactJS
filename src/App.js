@@ -1,5 +1,4 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap-daterangepicker/daterangepicker.css';
 import './App.css';
 import Login from './pages/Login';
 import Register from './pages/Register'
